@@ -12,8 +12,8 @@ const rp = require('request-promise');
 const _ = require('lodash');
 
 const User = {
-    username: 'ngizudin__',
-    password: 'udinbrindil'
+    username: '__',
+    password:l'
 }
 
 const TargetUsername = 'maharapall';
